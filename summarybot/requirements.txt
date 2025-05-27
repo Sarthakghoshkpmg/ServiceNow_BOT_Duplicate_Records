@@ -1,0 +1,16 @@
+# Duplicate Checker & Data Analysis Portal
+
+## 📌 Overview
+This project is a **Python-based data analysis tool** that:
+- Detects **duplicate entries** in a dataset.
+- Provides **summary insights** such as total records, unique entries, and key statistics.
+- Generates **visualizations** for age distribution and purchase amount trends.
+- Offers a **Gradio-powered web interface** for user-friendly interaction.
+
+## 🔧 Installation & Setup
+Before running the project, ensure you have **Python installed** and set up the required libraries.
+
+### **Step 1: Install Dependencies**
+Run the following command in your terminal:
+```bash
+pip install pandas matplotlib seaborn gradio
